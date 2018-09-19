@@ -1,0 +1,8 @@
+prueba1:
+  script:
+    - echo "estoy vivo"
+    - date
+    - cat mensaje.msj
+  tags:
+    - davidarenas
+    - shell
